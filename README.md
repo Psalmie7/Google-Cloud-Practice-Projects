@@ -1,2 +1,2 @@
-# Google-Cloud-Practice-Projects
-GCP practice projects
+# Google-Cloud-Projects
+GCP Lab Translations
